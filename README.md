@@ -1,1 +1,2 @@
 # hackthebox
+Capture the flag.
